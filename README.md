@@ -18,7 +18,7 @@ Every time you launch our app, it checks for a new version automatically. If the
 
 ## 🐧 For Linux:
 1. [Click this link to open the page that shows the latest version](https://github.com/recordonce/app/releases/latest)
-2. Download the file that ends with `.AppImage`
-3. Install the downloaded AppImage and run the app.
+2. Download the file that ends with `.deb`
+3. Install the downloaded file and install the app.
 
 Every time you launch our app, it checks for a new version automatically. If there indeed is a new version available, it will install it for you and help you open it.
