@@ -1,4 +1,4 @@
-# How to install the beta releases of the Record Once app
+# 🧪 How to install the beta releases of the Record Once app 🥽
 
 ## 👩‍💻 For Apple macOS:
 1. [Click this link to open the page that shows the latest version](https://github.com/recordonce/app-beta/releases/latest)
